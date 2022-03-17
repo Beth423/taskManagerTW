@@ -2,3 +2,9 @@ body{
 padding:0;
 margin:auto;
 }
+.taskListG{
+    background-color:aliceblue
+}
+.btContaner{
+    width:25%;
+}
