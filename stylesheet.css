@@ -1,10 +1,24 @@
 body{
 padding:0;
 margin:auto;
+
 }
 .taskListG{
-    background-color:aliceblue
+    background-color:rgb(214, 214, 214);
+    text-align:center;
+    width:100%;
+    
+
 }
-.btContaner{
-    width:25%;
+#mainSec{
+    display:flex;
+}
+.opBtnStart{
+    margin:0.2rem;
+    padding:0.2rem;
+    width:6rem;
+}
+button{
+    padding:0.2rem;
+    width:6rem;
 }
